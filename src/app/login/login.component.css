@@ -1,0 +1,44 @@
+/* login */
+
+.login{
+	margin-top: 120px;
+	margin-left: 20px;
+	text-align: center;
+	border: solid 1px ;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.logu{
+	margin-top: 30px;
+}
+
+.logp{
+	margin-top: 10px;
+	margin-bottom: 3px;
+}
+
+.chek{
+	margin-top: 18px;
+	margin-bottom: 20px;
+}
+
+.boton{
+	background-color: #4B7BF6;
+	color: white;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	padding-right: 55px;
+	padding-left: 55px;
+}
+
+.boton:hover{
+	background-color: #07246E;
+}
+
+a.pass{
+	font-size: 13px;
+	color: black;
+}
