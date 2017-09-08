@@ -1,0 +1,21 @@
+.dashboard{
+	text-align: center;
+}
+
+.dash{
+	border: solid 1px;
+	text-align: center;
+}
+
+.boton{
+	background-color: #4B7BF6;
+	color: white;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	padding-right: 55px;
+	padding-left: 55px;
+}
+
+.boton:hover{
+	background-color: #07246E;
+}
