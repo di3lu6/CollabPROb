@@ -41,6 +41,11 @@
 a.pass{
 	font-size: 13px;
 	color: black;
+	text-decoration: underline;
+}
+
+a.pass:hover{
+	color: grey;
 }
 
 .register{

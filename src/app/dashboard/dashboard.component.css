@@ -1,10 +1,13 @@
 .dashboard{
 	text-align: center;
+	min-height: 200px;
+	margin-top: 80px;
 }
 
 .dash{
 	border: solid 1px;
 	text-align: center;
+	margin: 5px;
 }
 
 .boton{
@@ -18,4 +21,8 @@
 
 .boton:hover{
 	background-color: #07246E;
+}
+
+h4{
+	margin-top: 15px;
 }
