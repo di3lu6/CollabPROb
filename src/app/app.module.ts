@@ -10,6 +10,11 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './login/register/register.component';
 import { UserheaderComponent } from './userheader/userheader.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { ServicesComponent } from './services/services.component';
+import { SitewebComponent } from './services/siteweb/siteweb.component';
+import { AppmovilComponent } from './services/appmovil/appmovil.component';
+import { SocialmediaComponent } from './services/socialmedia/socialmedia.component';
+import { MailmarketingComponent } from './services/mailmarketing/mailmarketing.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +23,12 @@ import { DashboardComponent } from './dashboard/dashboard.component';
     LoginComponent,
     RegisterComponent,
     UserheaderComponent,
-    DashboardComponent
+    DashboardComponent,
+    ServicesComponent,
+    SitewebComponent,
+    AppmovilComponent,
+    SocialmediaComponent,
+    MailmarketingComponent
   ],
   imports: [
     BrowserModule,
