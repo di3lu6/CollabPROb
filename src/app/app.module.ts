@@ -15,6 +15,8 @@ import { SitewebComponent } from './siteweb/siteweb.component';
 import { AppmovilComponent } from './appmovil/appmovil.component';
 import { SocialmediaComponent } from './socialmedia/socialmedia.component';
 import { MailmarketingComponent } from './mailmarketing/mailmarketing.component';
+import { GdbrandingComponent } from './gdbranding/gdbranding.component';
+import { AuditoriaComponent } from './auditoria/auditoria.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { MailmarketingComponent } from './mailmarketing/mailmarketing.component'
     SitewebComponent,
     AppmovilComponent,
     SocialmediaComponent,
-    MailmarketingComponent
+    MailmarketingComponent,
+    GdbrandingComponent,
+    AuditoriaComponent
   ],
   imports: [
     BrowserModule,
